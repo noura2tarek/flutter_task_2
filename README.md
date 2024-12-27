@@ -10,7 +10,7 @@ Code explanation:
 5- One of the images is an asset image and the other is a network image with a placeholder using (
 FadeInImage widget),   
 6- The two images in the same row with a padding between them.  
-7- The images are displayed using 'ImagesRow' widget in a separate file. 
+7- The images are displayed using 'ImagesRow' widget in a separate file,   
 8- Below the images, a text widget which customized using 'CustomText' widget in a separate file.
 
 The customized widgets in lib/widgets folder.
