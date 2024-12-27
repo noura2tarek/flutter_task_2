@@ -8,7 +8,7 @@ Code explanation:
 3- The home screen includes an app bar with a centered title 'My First Project'.  
 4- And The body of the home screen includes two images and customized text.  
 5- One of the images is an asset image and the other is a network image with a placeholder using (
-FadeInImage widget). 
+FadeInImage widget),   
 6- The two images in the same row with a padding between them.  
 7- The images are displayed using 'ImagesRow' widget in a separate file. 
 8- Below the images, a text widget which customized using 'CustomText' widget in a separate file.
