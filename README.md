@@ -2,7 +2,7 @@
 
 Simple Flutter Application displays two images and customized text.
 
-Code explanation:
+Code explanation:    
 1- I created a new Flutter project and separated the home screen widget in a separate file,    
 2- I replaced the default home screen with the new one stateless using 'stl' abbreviation,  
 3- The home screen includes an app bar with a centered title 'My First Project'.  
