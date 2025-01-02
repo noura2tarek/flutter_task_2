@@ -13,6 +13,8 @@ FadeInImage widget),
 7- The images are displayed using 'ImagesRow' widget in a separate file,   
 8- Below the images, a text widget ('The two images are displayed') which customized using 'CustomText' widget in a separate file,  
 
+
 The customized widgets in lib/widgets folder,   
 The font used is Suwannaphum-Regular.ttf,  
-The images and fonts in assets folder.
+The images and fonts in assets folder.   
+The output screenshot in images folder.
